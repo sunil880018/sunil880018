@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sunil kumar
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning system design
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning System Design
 - 📫 How to reach me : sunil880018@gmail.com
 
 <!---
